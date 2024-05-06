@@ -8,19 +8,19 @@
 - Computer Vision
 - Human Computer Interaction (HCI)
 - VR/AR
-# Research 
+## Research 
 - Learned lossless medical images compression via dual-transform and
 subimage-wise auto-regreession. 2023
 - Deep Lossless Image Compression via Masked Sampling and
 Coarse-to-Fine Auto-Regression. 2024
 ## Internship
-🖥️ Image Algorithm Engineer, Shenzhen AiXieSheng Technology Co., Ltd. 3/2022-12
+- 🖥️ Image Algorithm Engineer, Shenzhen AiXieSheng Technology Co., Ltd. 3/2022-12
 /2023
-- Developed a suite of lightweight customized image codecs with different rates. 
-- Collaborated with digital IC engineers to optimize the efficiency of display
-chipsets and test visual effects on screens.
-- Implemented compression of Luminance Demura data utilizing the Demura
-compensation algorithm at low bitrates.
+  - Developed a suite of lightweight customized image codecs with different rates. 
+  - Collaborated with digital IC engineers to optimize the efficiency of display
+  chipsets and test visual effects on screens.
+  - Implemented compression of Luminance Demura data utilizing the Demura
+  compensation algorithm at low bitrates.
 
 ## Services
 
