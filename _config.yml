@@ -113,8 +113,8 @@ analytics:
 # Site Author
 author:
   name             : "Tiantian Li"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Master Student, CSEE, Hunan University"
   location         : "Changsha, Hunan"
   email            : "litiantian2er@hnu.edu.cn"
   links:
