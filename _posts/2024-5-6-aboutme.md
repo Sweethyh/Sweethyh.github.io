@@ -1,5 +1,5 @@
-I am Tiantian Li, a MS Student at the College of Computer Science and Electronic Engineering, Hunan University, and advised by [Prof. Gaobo Yang](https://dblp.org/pid/57/5520.html).   
-I'm currently focus on Intelligent Video/Imgae Coding, blenidng traditonal standards, such as AVC and HEVC, and deep-learning methods. I am extremely interested in Human Computer Interaction, especailly Human-AI Interaction or Accessibility. I am keen to contribute to the practical implementation of the HCI community and design more accessible and affordable products for the public.
+I am Tiantian Li, an MS Student at the College of Computer Science and Electronic Engineering, Hunan University, and advised by [Prof. Gaobo Yang](https://dblp.org/pid/57/5520.html).   
+I previously focused on Intelligent Video/Imgae Coding, blending traditional standards, such as AVC and HEVC, and deep-learning methods. I am extremely interested in Human Computer Interaction, especially Human-AI Interaction or Accessibility. I am keen to contribute to the practical implementation of the HCI community and design more accessible and affordable products for the public.
 
 ## Education
 🏫 Master in Computer Science and Electronic Engineering, Hunan University. 2022-Present 
@@ -7,7 +7,7 @@ I'm currently focus on Intelligent Video/Imgae Coding, blenidng traditonal stand
 🏫 Bachelor in Information Engineering, Sichuan Agricultural University. 2018 - 2022
 
 ## Research Interests
-- Intelleigent Video/Image Coding
+- Intelligent Video/Image Coding
 - Computer Vision
 - Human Computer Interaction (HCI)
 - VR/AR
@@ -21,7 +21,7 @@ Coarse-to-Fine Auto-Regression. 2024
 - 🖥️ Image Algorithm Engineer, Shenzhen AiXieSheng Technology Co., Ltd. 3/2022-12
 /2023
   - Developed a suite of lightweight customized image codecs with different rates. 
-  - Collaborated with digital IC engineers to optimize the efficiency of display
+  - Collaborated with digital IC engineers to optimize the efficiency of the display
   chipsets and test visual effects on screens.
   - Implemented compression of Luminance Demura data utilizing the Demura
   compensation algorithm at low bitrates.
