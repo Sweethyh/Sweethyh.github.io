@@ -3,7 +3,7 @@ main:
   # - title: "Quick-Start Guide"
   #   url: /_pages/about.md/
   - title: "About"
-    url: /_pages/About.MD/
+    url: /_pages/About.md/
   # - title: "Sample Posts"
   #   url: /year-archive/
   - title: "Publication"
