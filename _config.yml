@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Li Tiantian, MS Student, HNU"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tiantian Li"
@@ -114,9 +114,9 @@ analytics:
 author:
   name             : "Tiantian Li"
   avatar           : "/assets/image/bio-photo.jpg"
-  bio              : "Master Student, CSEE, Hun"
+  bio              : "Master Student, CSEE, HNU"
   location         : "Changsha, Hunan"
-  email            : "litiantian2er@hnu.edu.cn"
+  email            : #"litiantian2er@hnu.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
