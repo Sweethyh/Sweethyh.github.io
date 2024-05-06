@@ -113,8 +113,8 @@ analytics:
 # Site Author
 author:
   name             : "Tiantian Li"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Master Student, CSEE, Hunan University"
+  avatar           : "/assets/image/bio-photo.jpg"
+  bio              : "Master Student, CSEE, Hun"
   location         : "Changsha, Hunan"
   email            : "litiantian2er@hnu.edu.cn"
   links:
