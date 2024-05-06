@@ -4,7 +4,7 @@
 🏫 Bachelor in Information Engineering, Sichuan Agricultural University. 2018 - 2022
 
 ## Research Interests
-- Intelloigent Video/Image Coding
+- Intelleigent Video/Image Coding
 - Computer Vision
 - Human Computer Interaction (HCI)
 - VR/AR
@@ -13,8 +13,8 @@
 subimage-wise auto-regreession. 2023
 - Deep Lossless Image Compression via Masked Sampling and
 Coarse-to-Fine Auto-Regression. 2024
-## Intership
-🖥️ Image Algorithm Engineer, Shenzhen AiXieSheng Technology Co.,Ltd. 3/2022-12
+## Internship
+🖥️ Image Algorithm Engineer, Shenzhen AiXieSheng Technology Co., Ltd. 3/2022-12
 /2023
 - Developed a suite of lightweight customized image codecs with different rates. 
 - Collaborated with digital IC engineers to optimize the efficiency of display
@@ -24,4 +24,4 @@ compensation algorithm at low bitrates.
 
 ## Services
 
-📃 Reviewer of ACM Multimediea 2024.
+📃 Reviewer of ACM Multimedia 2024.
