@@ -133,14 +133,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Sweethyh/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
     - label: "CV"
-      icon: "fab fa-fw fa-cv"
-      # url: " - label: "CV"
-      icon: "fab fa-fw fa-cv"
-      url: "https://github.com/Sweethyh/Sweethyh.github.io/cv_Tiantian Li.pdf""
+      icon: "fa-solid fa-file"
+      url: "https://github.com/Sweethyh/Sweethyh.github.io/cv_Tiantian Li.pdf"
 
 # Site Footer
 footer:
