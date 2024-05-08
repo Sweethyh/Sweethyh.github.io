@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tiantian Li"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://lisweetie.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -135,6 +135,9 @@ author:
       url: "https://github.com/Sweethyh/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+    - label: "CV"
+      icon: "fab fa-fw fa-cv"
       # url: "https://instagram.com/"
 
 # Site Footer
