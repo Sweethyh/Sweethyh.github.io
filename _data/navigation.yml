@@ -7,6 +7,6 @@ main:
   # - title: "Sample Posts"
   #   url: /year-archive/
   - title: "Publication"
-    url: /publications/
+    url: /publication/
   - title: "Project"
     url: /project/
