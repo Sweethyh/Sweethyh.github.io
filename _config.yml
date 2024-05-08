@@ -135,7 +135,7 @@ author:
       url: "https://github.com/Sweethyh/"
     - label: "CV"
       icon: "fa-solid fa-file"
-      url: "/cv_Tiantian.pdf"
+      url: "https://lisweetie.com/cv_Tiantian.pdf"
 permalink:   /:categories/:title
 links:
   - title: About
