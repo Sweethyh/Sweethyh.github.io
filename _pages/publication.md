@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
-permalink: /publications/
+title: publication
+permalink: /publication/
 ---
 two papers under review....
