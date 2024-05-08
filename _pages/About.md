@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+premalink: /About/
+---
 I am Tiantian Li, a MS Student at the College of Computer Science and Electronic Engineering, Hunan University, and advised by [Prof. Gaobo Yang](https://dblp.org/pid/57/5520.html).   
 I'm currently focus on Intelligent Video/Imgae Coding, blenidng traditonal standards, such as AVC and HEVC, and deep-learning methods. I am extremely interested in Human Computer Interaction, especailly Human-AI Interaction or Accessibility. I am keen to contribute to the practical implementation of the HCI community and design more accessible and affordable products for the public.    
 ## Education
