@@ -1,6 +1,6 @@
 ---
 layout: page
-author_profile: true
+title: project
 premalink: /project/
 ---
 - Display stream coding for display links and IP core implementation. 2022/03-2022/06.
