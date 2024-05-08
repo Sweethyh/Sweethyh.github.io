@@ -137,6 +137,19 @@ author:
       icon: "fa-solid fa-file"
       url: "https://github.com/Sweethyh/Sweethyh.github.io/blob/master/cv_Tiantian.pdf"
 permalink:   /:categories/:title
+links:
+  - title: About
+    url: /
+  # - title: Teams
+  #   url: /teams/
+  - title: Publication
+    url: /publication/
+  # - title: Awards
+  #   url: /awards/
+  # - title: Hobbies
+  #   url: /hobbies/
+  - title: Project
+    url: /project/
 # Site Footer
 footer:
   links:
