@@ -1,6 +1,6 @@
 ---
 layout: page
-author_profile: true
+title: publications
 permalink: /publications/
 ---
 two papers under review....
