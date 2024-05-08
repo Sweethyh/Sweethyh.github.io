@@ -136,7 +136,7 @@ author:
     - label: "CV"
       icon: "fa-solid fa-file"
       url: "https://github.com/Sweethyh/Sweethyh.github.io/blob/master/cv_Tiantian.pdf"
-
+permalink:   /:categories/:title
 # Site Footer
 footer:
   links:
