@@ -26,6 +26,5 @@ Coarse-to-Fine Auto-Regression. 2024
 - 🖥️ AI compression, Institute of AI Industry Research, Tsinghua University. 6/2024-present
   
 ## Services
-
 📃 Reviewer of ACM Multimedia 2024.
 🚚 2024 HCI Research Camp of City University of Hong Kong in Chiangmai.
