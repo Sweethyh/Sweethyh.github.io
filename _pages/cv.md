@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 🏫 Master in Computer Science and Electronic Engineering, Hunan University. 2022-Present 
+
 🏫 Bachelor in Information Engineering, Sichuan Agricultural University. 2018 - 2022
 
 Work experience
