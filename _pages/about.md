@@ -17,7 +17,7 @@ I'm currently focusing on Intelligent Deep Video/Imgae Coding.
 ## Research Interests
 - Intelligent Video/Image Coding
 - Computer Vision
-- 
+
 ## Intership
 - 🖥️ Image Algorithm Engineer, Shenzhen AiXieSheng Technology Co., Ltd. 3/2022-12/2023
 
