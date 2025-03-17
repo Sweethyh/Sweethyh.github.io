@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Tiantian Li, an MS Student at the College of Computer Science and Electronic Engineering, Hunan University, and advised by [Prof. Gaobo Yang](https://dblp.org/pid/57/5520.html).   
-I'm currently focusing on Intelligent Deep Video/Imgae Coding, Neural Representation and Compression. 
+I am Tiantian Li, an MS Student at the College of Computer Science and Electronic Engineering, [Hunan University](https://csee.hnu.edu.cn/), and advised by [Prof. Gaobo Yang](https://dblp.org/pid/57/5520.html).   
 
 ## Education
 🏫 Master in Computer Science and Electronic Engineering, Hunan University. 2022-Present 
 
 🏫 Bachelor in Information Engineering, Sichuan Agricultural University. 2018 - 2022
+
 ## Research Interests
 - Intelligent Video/Image Coding
 - Neural Representation and Compression (Gaussian Splatting)
