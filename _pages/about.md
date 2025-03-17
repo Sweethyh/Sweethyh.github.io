@@ -22,7 +22,7 @@ I'm currently focusing on Intelligent Deep Video/Imgae Coding, Neural Representa
 - 🖥️ Image Algorithm Engineer, Shenzhen AiXieSheng Technology Co., Ltd. 3/2022-12/2023
 ## Research
 - Tiantian Li, Qunbing Xia, Yue Li, Ruixiao Guo, Gaobo Yang. (2025). “Deep Lossless Image Compression via
-Masked Sampling and Coarse-to-Fine Auto-Regression”.[Paper](https://arxiv.org/abs/2503.11231)
+Masked Sampling and Coarse-to-Fine Auto-Regression”.[\[Paper\]](https://arxiv.org/abs/2503.11231)
   
 ## Services
 📃 Reviewer of ACM Multimedia 2024.
