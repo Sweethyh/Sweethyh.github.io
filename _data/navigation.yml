@@ -7,5 +7,6 @@
 main:
   - title: "About"
     url: /
-
+  - title:'CV'
+    url:/_pages/cv.md
  
