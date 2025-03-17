@@ -26,10 +26,11 @@ author:
   name             : "Tiantian Li"
   pronouns         : # example: "she/her"  
   bio              : "Master Student, CSEE, HNU"
-  location         : "Earth"
+  location         : "Changsha, China"
   employer         : "Hunan University"
   uri              : # URL
   email            : "litiantian2er@hnu.edu" 
+  cv                : "/images/Tiantian_Li.pdf"
   links:
     - label: "CV"
       icon: "fa-solid fa-file"
