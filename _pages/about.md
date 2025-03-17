@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tiantian Li, an MS Student at the College of Computer Science and Electronic Engineering, Hunan University"
+title: "Tiantian Li"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,8 +18,9 @@ I'm currently focusing on Intelligent Deep Video/Imgae Coding, Neural Representa
 - Intelligent Video/Image Coding
 - Neural Representation and Compression (Gaussian Splatting)
 
-## Intership
+## Intern Experience
 - 🖥️ Image Algorithm Engineer, Shenzhen AiXieSheng Technology Co., Ltd. 3/2022-12/2023
+  
 ## Research
 - Tiantian Li, Qunbing Xia, Yue Li, Ruixiao Guo, Gaobo Yang. (2025). “Deep Lossless Image Compression via
 Masked Sampling and Coarse-to-Fine Auto-Regression”.[\[Paper\]](https://arxiv.org/abs/2503.11231)
