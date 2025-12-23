@@ -6,7 +6,7 @@
 
 main:
   - title: "About"
-    url: /
+    url: /_pages/about.md
   - title:'CV'
     url:/_pages/cv.md
  
