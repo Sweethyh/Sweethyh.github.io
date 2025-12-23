@@ -7,16 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Tiantian Li, an MS Student at the College of Computer Science and Electronic Engineering, [Hunan University](https://csee.hnu.edu.cn/), and advised by [Prof. Gaobo Yang](https://dblp.org/pid/57/5520.html).   
+I am Tiantian Li.  I obtained my master's degree at the [College of Computer Science and Electronic Engineering (CSEE])(https://csee.hnu.edu.cn/), [Hunan University (HNU)](https://csee.hnu.edu.cn/) under the supervision of [Prof. Gaobo Yang](https://dblp.org/pid/57/5520.html) in 2025.  I got my bachelor's degree at College of Information Enginnering from Sichuan Agricultural University (SICAU) in 2022.
+My research interests lie in Neural Representation and Compression, 3D reconstruction and neural rendering, etc.
 
 ## Education
 🏫 Master in Computer Science and Electronic Engineering, Hunan University. 2022-Present 
 
 🏫 Bachelor in Information Engineering, Sichuan Agricultural University. 2018 - 2022
-
-## Research Interests
-- Intelligent Video/Image Coding
-- Neural Representation and Compression (Gaussian Splatting)
 
 ## Intern Experience
 - 🖥️ Image Algorithm Engineer, Shenzhen AiXieSheng Technology Co., Ltd. 3/2022-12/2023
