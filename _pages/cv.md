@@ -12,13 +12,14 @@ redirect_from:
 
 Education
 ======
-🏫 Master in Computer Science and Electronic Engineering, Hunan University. 2022-Present 
+🏫 Master in Computer Science and Electronic Engineering, Hunan University. 2022-2025 
 
 🏫 Bachelor in Information Engineering, Sichuan Agricultural University. 2018 - 2022
 
-Work experience
+Experience
 ======
-* 3/2022-12: Image Algorithm Engineer, Shenzhen AiXieSheng Technology Co.,Ltd.
+* 7/2025-Present: Algorithm Engineer, Rawmantic AI.
+* 3/2022-12: Image Algorithm Research Intern, Shenzhen AiXieSheng Technology Co.,Ltd.
 
 Service and leadership
 ======
