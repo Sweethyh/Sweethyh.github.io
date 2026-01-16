@@ -18,14 +18,14 @@ I am Tiantian Li.  I obtained my master's degree at the [College of Computer Sci
 
 ## Research Experience
 
-- 👩‍🔬 **Research Intern | Institute for AI Industry Research (AIR), Tsinghua University.**  *Jun 2024 – Mar 2025*
+- 👩‍🔬 **Research Intern, Institute for AI Industry Research (AIR), Tsinghua University.**  *Jun 2024 – Mar 2025*
 
 ## Working Experience
 
-- 🏢 **3D Reconstruction Algorithm Engineer | Rawmanric AI, Chengdu**  *July 2025 – Present*
+- 🏢 **3D Reconstruction Algorithm Engineer, Rawmanric AI, Chengdu**  *July 2025 – Present*
 
 
-- 🏢 **Image Algorithm Engineer Intern | Shenzhen AiXieSheng Technology Co., Ltd.**  *Mar 2022 – Dec 2023*
+- 🏢 **Image Algorithm Engineer Intern, Shenzhen AiXieSheng Technology Co., Ltd.**  *Mar 2022 – Dec 2023*
 
 
   
